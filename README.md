@@ -1,4 +1,5 @@
 ### Education
+- - -
 Sangmyung University  
 Department of Human-Centered Artificial Intelligence
 
