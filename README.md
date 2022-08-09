@@ -1,9 +1,8 @@
 ### **Education**
-Sangmyung University  
-Department of Human-Centered Artificial Intelligence
+2017.03 - Present : B.S. Student in College of Convergence Engineering, Depertment of Human-Centered Artificial Intelligence, Sangmyung University
 
 ### **Research Field**
-Generative Adversarial Networks\
+Generative Adversarial Networks
 GAN Dissection
 
 ### **Work Experience**
