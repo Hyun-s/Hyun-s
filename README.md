@@ -3,7 +3,7 @@ Sangmyung University
 Department of Human-Centered Artificial Intelligence
 
 ### **Research Field**
-Generative Adversarial Networks
+Generative Adversarial Networks\
 GAN Dissection
 
 ### **Work Experience**
